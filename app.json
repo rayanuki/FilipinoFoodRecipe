@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "FilipinoFoodRecipe",
-    "slug": "FilipinoFoodRecipe",
+    "name": "Filipino Food Recipe",
+    "slug": "Filipino Food Recipe",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
